@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit
 
-At the beginning of the module, I was asked to find the total votes of the election, each candidate's votes, and their percentage of votes. Finally, the winner would be the person having the most votes. However, now I have to figure out the vote turnover for each county and their percentages while finding the highest among them. All of this is possible by [reading the csv file](https://docs.python.org/3/library/csv.html) and writing it inside another txt file.the
+At the beginning of the module, I was asked to find the total votes of the election, each candidate's votes, and their percentage of votes. Finally, the winner would be the person having the most votes. However, now I have to figure out the vote turnover for each county and their percentages while finding the highest among them. All of this is possible by [reading the csv file](https://docs.python.org/3/library/csv.html) and writing it inside another txt file.
 
 ## Election-Audit Results
 
