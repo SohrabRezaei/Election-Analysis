@@ -18,7 +18,8 @@ In the beginning of the module I was asked to find the total votes of the electi
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received. The three candidates votes and their respected percentages are depict in the image below.
 [![czx.jpg](https://i.postimg.cc/vZBghM8y/czx.jpg)](https://postimg.cc/JGfz7fBY)
 
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes? Diana won the election and her vote count and percentage is shown in the image. 
+* Which candidate won the election, what was their vote count, and what was their percentage of the total votes? Diana won the election and her vote count and percentage is shown in the image below.
+
 [![ccc.jpg](https://i.postimg.cc/hGRnjb5Y/ccc.jpg)](https://postimg.cc/zy762W5w)
 
 ## Election-Audit Summary
