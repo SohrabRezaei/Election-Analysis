@@ -9,6 +9,7 @@ In the beginning of the module I was asked to find the total votes of the electi
 * How many votes were cast in this congressional election? The total votes for this election are 369,711 votes. 
 [![Capture.jpg](https://i.postimg.cc/fTz03MYZ/Capture.jpg)](https://postimg.cc/Btzvk9hw)
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. The three counties number of votes and percentages are shown in the image below.
+
 [![fds.jpg](https://i.postimg.cc/QCy9GTCb/fds.jpg)](https://postimg.cc/bS1N1dQD)
 
 * Which county had the largest number of votes? Denver is the county with the highest number of votes. 
